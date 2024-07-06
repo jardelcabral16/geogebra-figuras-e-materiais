@@ -14,8 +14,3 @@ Teorema de Tales: https://www.geogebra.org/m/rwqghqwk
 
 Teorema da Bissetriz interna: https://www.geogebra.org/m/zrrvzveg
 
-Figuras do Sistema Seriado de Avaliação nível 3 (SSA3) da Universidade de Pernambuco (UPE):
-https://www.geogebra.org/m/e5rguf6v
-https://www.geogebra.org/m/yg4uknhh
-https://www.geogebra.org/m/pvnjbx3m
-
